@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT Prompt Crafter"
+  short_description: "把模糊需求整理成结构清晰、可直接使用的高质量 GPT 提示词"
+  default_prompt: "Use $gpt-prompt-crafter to turn my rough task idea into a structured prompt."
