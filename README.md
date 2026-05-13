@@ -4,6 +4,11 @@
 
 It helps users produce clear, reusable prompts with role framing, task goals, background context, output format, constraints, quality standards, and style requirements.
 
+## Links
+
+- Documentation: [docs/usage.md](docs/usage.md)
+- Demo: [docs/demo.md](docs/demo.md)
+
 ## When to Use
 
 Use this Skill when you need to:
